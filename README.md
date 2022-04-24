@@ -2,7 +2,7 @@
 
 ## Server
 
-OBS: Make sure that `apollo-server-ts` is running
+OBS: Make sure that [apollo-server-form-users](https://github.com/Carloss616/apollo-server-form-users) is running
 
 ## Running some commands
 
